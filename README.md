@@ -2,7 +2,7 @@
 
 This is a colored and fun light syntax theme for Atom.
 
-it's recommended to use with rzx-dark-ui [atom.io](https://atom.io/themes/rzx-dark-ui) and roboto mono font from google fonts [fonts.google.com](https://fonts.google.com/specimen/Roboto+Mono)
+it's recommended to use with rzx-light-ui [atom.io](https://atom.io/themes/rzx-light-ui) and roboto mono font from google fonts [fonts.google.com](https://fonts.google.com/specimen/Roboto+Mono)
 
 ## How to install
 
