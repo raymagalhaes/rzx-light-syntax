@@ -1,5 +1,12 @@
-# rzx-dark-syntax theme
+# Atom rzx dark syntax theme
 
-A short description of your theme.
+This is a colored and fun dark syntax theme for Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## How to install
+
+```
+apm install rzx-dark-syntax
+```
+# Screenshot
+
+![rzx-dark-ui-screenshot](https://user-images.githubusercontent.com/15671466/58061973-d56f0880-7b4e-11e9-93ba-a44d7dbf4aa7.png)
