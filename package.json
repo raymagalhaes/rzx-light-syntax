@@ -1,14 +1,14 @@
 {
-  "name": "rzx-dark-syntax",
+  "name": "rzx-light-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
-  "description": "Dark clean syntax theme",
+  "version": "0.0.0",
+  "description": "Light clean syntax theme",
   "keywords": [
     "syntax",
     "theme",
-    "dark"
+    "light"
   ],
-  "repository": "https://github.com/raymagalhaes/rzx-dark-syntax",
+  "repository": "https://github.com/raymagalhaes/rzx-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

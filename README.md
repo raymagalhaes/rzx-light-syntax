@@ -1,13 +1,13 @@
-# Atom rzx dark syntax theme
+# Atom rzx light syntax theme
 
-This is a colored and fun dark syntax theme for Atom.
+This is a colored and fun light syntax theme for Atom.
 
-it's recommended to use with rzx-dark-ui [a link](https://atom.io/themes/rzx-dark-ui) and roboto mono font from google fonts [a link](https://fonts.google.com/specimen/Roboto+Mono)
+it's recommended to use with rzx-light-ui [a link](https://atom.io/themes/rzx-light-ui) and roboto mono font from google fonts [a link](https://fonts.google.com/specimen/Roboto+Mono)
 
 ## How to install
 
 ```
-apm install rzx-dark-syntax
+apm install rzx-light-syntax
 ```
 # Screenshot
 
