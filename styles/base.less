@@ -27,7 +27,7 @@ atom-text-editor {
   .fold-marker:after,
   .gutter .line-number.folded,
   .gutter .line-number:after {
-    color: @light-gray;
+    color: @dark-gray;
   }
   .invisible {
     color: @syntax-text-color;
@@ -41,7 +41,7 @@ atom-text-editor {
 }
 // Syntax styles
 .syntax--comment {
-  color: @light-gray;
+  color: @gray;
 }
 .syntax--keyword {
   color: @blue;
@@ -90,7 +90,7 @@ atom-text-editor {
   color           : @syntax-background-color;
 }
 .syntax--string {
-  color: @light-gray;
+  color: @gray;
   &.syntax--regexp {
     color: @cyan;
     .syntax--source.syntax--ruby.syntax--embedded {
@@ -104,7 +104,7 @@ atom-text-editor {
 .syntax--punctuation {
   &.syntax--definition {
     &.syntax--comment {
-      color: @light-gray;
+      color: @dark-gray;
     }
     &.syntax--array,
     &.syntax--parameters,
@@ -149,7 +149,7 @@ atom-text-editor {
     text-decoration: none;
   }
   &.syntax--other.syntax--inherited-class {
-    color: @light-gray;
+    color: @dark-gray;
   }
   &.syntax--name.syntax--class,
   &.syntax--name.syntax--type.syntax--class {
