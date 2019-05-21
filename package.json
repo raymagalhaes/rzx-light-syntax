@@ -5,7 +5,8 @@
   "description": "Dark clean syntax theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark"
   ],
   "repository": "https://github.com/atom/rzx-dark-syntax",
   "license": "MIT",
